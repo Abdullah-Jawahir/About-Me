@@ -1,5 +1,4 @@
 # About Me
-Config files for my GitHub profile.<br>
 👋 Hi, I’m @Frontend-Dev-11<br>
 👀 I’m interested in frontend web development.<br>
 🌱 I’m currently learning React Js and scss.<br>
